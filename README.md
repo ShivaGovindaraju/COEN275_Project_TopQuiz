@@ -1,7 +1,7 @@
 # COEN275_Project_TopQuiz
 SCU COEN 275 Object Oriented Design and Programming - Course Project - Top Quiz
 
-Collaboration between [Shiva Govindaraju](https://github.com/ShivaGovindaraju Shiva Govindaraju Github Profile) and [Eric Piacentini](https://github.com/epiacentini/TopQuizGame Eric Piacentini Github Profile).
+Collaboration between [Shiva Govindaraju](https://github.com/ShivaGovindaraju "Shiva Govindaraju Github Profile") and [Eric Piacentini](https://github.com/epiacentini/TopQuizGame "Eric Piacentini Github Profile").
 
 TopQuiz is a Java Application developed with the intention of testing elementary-school 
 students in the United States on their knowledge of United States History and Civics.
