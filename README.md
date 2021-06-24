@@ -3,6 +3,8 @@ SCU COEN 275 Object Oriented Design and Programming - Course Project - Top Quiz
 
 Collaboration between [Shiva Govindaraju](https://github.com/ShivaGovindaraju "Shiva Govindaraju Github Profile") and [Eric Piacentini](https://github.com/epiacentini/TopQuizGame "Eric Piacentini Github Profile").
 
+The Back-End was built by Shiva Govindaraju. The Front-End was built by Eric Piacentini.
+
 TopQuiz is a Java Application developed with the intention of testing elementary-school 
 students in the United States on their knowledge of United States History and Civics.
 The application is intended for children around the ages of 8-10, and is poised to be 
